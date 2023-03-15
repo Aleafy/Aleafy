@@ -5,7 +5,7 @@
 - ✨ I love playing the piano, singing, photography, clipping video and traveling.
 - 👯 I’m always open for academic collaboration to make more creative works. Contact me via fangye0110@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aleafy&show_icons=true&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aleafy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
