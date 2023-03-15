@@ -5,6 +5,11 @@
 - ✨ I love playing the piano, singing, photography, clipping video and traveling.
 - 👯 I’m always open for academic collaboration to make more creative works. Contact me via fangye0110@gmail.com
 
+<p align = "center">
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=aleafy&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aleafy">
+</p>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aleafy)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aleafy)](https://github.com/ryo-ma/github-profile-trophy)
