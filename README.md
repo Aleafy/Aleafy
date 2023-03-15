@@ -6,8 +6,8 @@
 - 👯 I’m always open for academic collaboration to make more creative works. Contact me via fangye0110@gmail.com
 
 <p align = "center">
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=aleafy" style="height: 150%;">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aleafy" style="height: 70%;">
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=aleafy" style="height: 150%;">
 </p>
 
 <p align = "center">
