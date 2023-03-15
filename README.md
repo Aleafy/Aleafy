@@ -5,10 +5,8 @@
 - ✨ I love playing the piano, singing, photography, clipping video and traveling.
 - 👯 I’m always open for academic collaboration to make more creative works. Contact me via fangye0110@gmail.com
 
-
-
 <p align = "center">
-  <img src = "https://github-profile-trophy.vercel.app/?username=aleafy">
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=aleafy" style="height: 150%;">
 </p>
   
   
@@ -20,7 +18,9 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aleafy)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aleafy)](https://github.com/ryo-ma/github-profile-trophy)
-
+<p align = "center">
+  <img src = "https://github-profile-trophy.vercel.app/?username=aleafy">
+</p>
 
 <p align = "center">
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=aleafy" style="height: 150%;">
