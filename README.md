@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Ye Fang👋
+
+I'm now a CS MPhil student in SJTU from 2022, advised by Prof. Quanshi Zhang.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aleafy)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Aleafy/Aleafy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
