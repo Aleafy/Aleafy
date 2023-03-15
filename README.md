@@ -1,7 +1,7 @@
 ### Hi, I'm Ye Fang👋
 
 - 💻 I'm now a CS Undergraduate student @HIT, majored in AI.
-- 🌱 My research interests range across Computer Vision(object detection, scene understanding), Multi-modal Learning and Natural Language.
+- 🌱 My research interests range across Computer Vision(object detection, scene understanding), Multi-modal Learning and Natural Language Processing.
 - ✨ I love playing the piano, singing, photography, clipping video and traveling.
 - 👯 I’m always open for academic collaboration to make more creative works. Contact me via fangye0110@gmail.com
 
