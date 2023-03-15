@@ -1,18 +1,12 @@
 ### Hi, I'm Ye Fang👋
-<p align = "left">
-  - 💻 I'm now a CS Undergraduate student @HIT, majored in AI.
-  - 🌱 My research interests range across Computer Vision(object detection, scene understanding), Multi-modal Learning and Natural Language.
-  - ✨ I love playing the piano, singing, photography, clipping video and traveling.
-  - 👯 I’m always open for academic collaboration to make more creative works. Contact me via fangye0110@gmail.com
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aleafy" style="height: 70%;">  
-</p>
+
+- 💻 I'm now a CS Undergraduate student @HIT, majored in AI.
+- 🌱 My research interests range across Computer Vision(object detection, scene understanding), Multi-modal Learning and Natural Language.
+- ✨ I love playing the piano, singing, photography, clipping video and traveling.
+- 👯 I’m always open for academic collaboration to make more creative works. Contact me via fangye0110@gmail.com
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aleafy" style="height: 70%;">  
-</p>
-
-<p align = "center">
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=aleafy" style="height: 150%;">
 </p>
 
 <p align = "center">
@@ -28,6 +22,11 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aleafy)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aleafy)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+<p align = "center">
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=aleafy" style="height: 150%;">
+</p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
