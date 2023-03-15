@@ -7,7 +7,7 @@
 
 <p align = "center">
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=aleafy&line_height=50">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aleafy">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aleafy" style="height: 120%;">
 </p>
 
 <p align = "center">
