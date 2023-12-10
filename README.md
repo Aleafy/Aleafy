@@ -1,8 +1,8 @@
 ### Hi, I'm Ye Fang👋
 
 - 💻 I'm now a CS PhD candidate @FDU, majored in AI.
-- 🌱 My research interests range across Computer Vision(object detection, scene understanding), Multi-modal Learning and Natural Language Processing.
-- ✨ I love playing the piano, singing, photography, clipping video and traveling. Always happy to explore new things!
+- 🌱 My research interests range across Multi-modal Learning and 3D generation.
+- ✨ I love playing the piano, dancing and traveling. Always happy to explore new things!
 - 👯 I’m always open for academic collaboration to make more creative works. Contact me via fangye@pjlab.org.cn
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aleafy)](https://git.io/streak-stats)
