@@ -1,7 +1,7 @@
 ### Hi, I'm Ye Fang👋
 
 - 💻 I'm now a CS PhD candidate @FDU, majored in AI.
-- 🌱 My research interests range across Multi-modal Learning and 3D generation.
+- 🌱 My research interests mainly focus on Multi-modal Learning.
 - ✨ I love playing the piano, dancing and traveling. Always happy to explore new things!
 - 👯 I’m always open for academic collaboration to make more creative works. Contact me via yefang23@m.fudan.edu.cn
 
