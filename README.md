@@ -2,7 +2,7 @@
 
 - 💻 I'm now a CS PhD candidate @FDU, majored in AI.
 - 🌱 My research interests mainly focus on Multi-modal Learning, 3D Vision.
-- ✨ I love playing the piano, dancing and traveling. Always happy to explore new things!
+- ✨ I love music and traveling. Always happy to explore new things!
 - 👯 I’m always open for academic collaboration to make more creative works. Contact me via yefang23@m.fudan.edu.cn
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aleafy)](https://git.io/streak-stats)
